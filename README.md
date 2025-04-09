@@ -3,7 +3,7 @@ A work in progress inspired by my passion for motorcycles. This project will use
 
 
 Finished work:  
-Stage 1 - Web scraping:
+Stage 1 - Web scraping.
 
 Challenges and Solutions:
 
