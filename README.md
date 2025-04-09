@@ -19,7 +19,7 @@ These challenges helped me enhance my skills and build a more resilient scraping
 
 
 
-Incoming work:
-Stage 2 - Data cleaning.
-Stage 3 - Creating and populating a database.
-Stage 4 - Creating a Machine Learning model.
+Incoming work:  
+Stage 2 - Data cleaning.  
+Stage 3 - Creating and populating a database.  
+Stage 4 - Creating a Machine Learning model.  
