@@ -1,5 +1,7 @@
 A work in progress inspired by my passion for motorcycles. This project will use data from Bikez.com to scrape, clean, and organize information in a database. I aim to explore the data, create visualizations, and develop tools to help users find their ideal motorcycle. Updates will follow as I progress.  
-
+  
+  
+  
 Finished work:  
 Stage 1 - Web scraping.  
 
@@ -30,7 +32,9 @@ Dataset reorganization: Maintained structural integrity by systematically adding
 Output optimization: Exported the refined dataset to a clean CSV, ready to be used in next stages.  
 
 These challenges helped me develop stronger data processing skills and transform raw scraped data into a clean, structured format.  
-
+  
+  
+  
 Incoming work:  
 Stage 3 - Creating and populating a database.  
 Stage 4 - Creating a Machine Learning model.
