@@ -31,6 +31,6 @@ Output optimization: Exported the refined dataset to a clean CSV, ready to be us
 
 These challenges helped me develop stronger data processing skills and transform raw scraped data into a clean, structured format.  
 
-Incoming work:
+Incoming work:  
 Stage 3 - Creating and populating a database.  
 Stage 4 - Creating a Machine Learning model.
